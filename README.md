@@ -1,4 +1,5 @@
-![name](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/header.png?raw=true)
+![name](![image](https://github.com/user-attachments/assets/0017f5f1-ae15-4ee8-84d1-0acdfc1e9163)
+)
 <h1 align="center" style="font-family: cursive;">About M-E :></h1>
 
 <br>
