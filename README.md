@@ -1,5 +1,4 @@
-![name](![image]([https://github.com/arsh-baktoo/arsh-baktoo/blob/main/ARSH%20BAKTOO.png?raw=true
-)
+![technology stack]()
 <h1 align="center" style="font-family: cursive;">About M-E :></h1>
 
 <br>
