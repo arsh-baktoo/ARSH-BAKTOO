@@ -63,27 +63,5 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 > The Proficiency Ratings are given by me, based on how well I can work with the given `Langauge` if given a task of any level.
 
 
-
-
-![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/acheivements.png?raw=true)
-
-<h1 align="center" style="font-family: cursive;">Achi-eVe-ments :></h1>
-<div align="center">
-
-S.No |Hackaton | Award | Contribution | Cat-o-meter
----: |--- | :---: | :---: | --- 
-1 |*Sonoma Hacks 2.0* | `2nd Place` | **Team** | 😻
-2 |*BayView Hackathon 1.0* | `Winner` | **Solo** | 😻
-3 |*HP CodeWars'22* | `Top 70` | **Solo** | 😻
-4 |*BracketHacks 1.0* | `First Place` | **Solo** | 😻
-5 |*MLH CivicHacks* | `Peeople Choice Award` | **Solo** | 😻
-6 |*AutoHacks* | `Winner` | **Solo**| 😻
-7 |*HP CodeWars'23* | `Top 100` | **Solo**| 😻
-8 |*SkyNet Hacks v2* | `Winner` | **Solo**| 😻
-9 |*Happy Hacks III* | `First Place` | **Solo**| 😻
-
-</div>
-
-
 ![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/collab.png?raw=true)
 <h1 align="center" style="font-family: cursive;">CoLLAB wiTH M-E :></h1>
