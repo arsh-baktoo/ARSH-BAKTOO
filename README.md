@@ -1,4 +1,7 @@
-![ARSH_BAKTOO-removebg-preview (2)](https://github.com/user-attachments/assets/bda81ac2-3899-48de-ba28-91c566c2d885)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bda81ac2-3899-48de-ba28-91c566c2d885" alt="Hello-img">
+</p>
+
 
 <h1 align="center" style="font-family: cursive;">About ME</h1>
 
