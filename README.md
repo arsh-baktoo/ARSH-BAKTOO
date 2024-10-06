@@ -17,10 +17,7 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 > **Warning**
 > You Forgot to give me a Follow 
 
-私はテクノロジーとデザインの両方に情熱を持ったフルスタック Web 開発者です😸。私は、技術的な専門知識だけでなく、デザイン✨に対する鋭い目を、私が取り組むすべてのプロジェクトにもたらします。私の経験には、ソフトウェア開発😾と自動化😻の数多くのプロジェクトが含まれます。
 
-
-![technology stack](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/stack.png?raw=true)
 
 
 <h1 align="center" style="font-family: cursive;">Technology Stacks</h1>
@@ -66,5 +63,4 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 > The Proficiency Ratings are given by me, based on how well I can work with the given `Langauge` if given a task of any level.
 
 
-![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/collab.png?raw=true)
 <h1 align="center" style="font-family: cursive;">CoLLAB wiTH ME</h1>
