@@ -1,10 +1,10 @@
 ![ARSH_BAKTOO-removebg-preview (2)](https://github.com/user-attachments/assets/bda81ac2-3899-48de-ba28-91c566c2d885)
 
-<h1 align="center" style="font-family: cursive;">About M-E :></h1>
+<h1 align="center" style="font-family: cursive;">About ME</h1>
 
 <br>
 
-> Hi This is **Arsh Baktoo**, Thanks for Visiting my Profile :>
+> Hi This is **Arsh Baktoo**, Thanks for Visiting my Profile
 
 
 I'm a `Full-Stack Web Developer😸` with a passion for both technology and design. I bring not only technical expertise but also a keen eye for `Design✨` to every project I work on. My experience includes numerous projects in `Software Development😾` and `Automation😻`.
@@ -12,7 +12,7 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 ![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 > **Warning**
-> You Forgot to give me a Follow uWu
+> You Forgot to give me a Follow 
 
 私はテクノロジーとデザインの両方に情熱を持ったフルスタック Web 開発者です😸。私は、技術的な専門知識だけでなく、デザイン✨に対する鋭い目を、私が取り組むすべてのプロジェクトにもたらします。私の経験には、ソフトウェア開発😾と自動化😻の数多くのプロジェクトが含まれます。
 
@@ -20,7 +20,7 @@ I'm a `Full-Stack Web Developer😸` with a passion for both technology and desi
 ![technology stack](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/stack.png?raw=true)
 
 
-<h1 align="center" style="font-family: cursive;">Technology Stacks :></h1>
+<h1 align="center" style="font-family: cursive;">Technology Stacks</h1>
 
 Step into my tech universe! In this section, I'm excited to introduce you to the fantastic array of technologies I've had the pleasure of exploring and mastering
 
@@ -64,4 +64,4 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 
 ![achievements](https://github.com/mostuselessboy/mostuselessboy/blob/main/txt/collab.png?raw=true)
-<h1 align="center" style="font-family: cursive;">CoLLAB wiTH M-E :></h1>
+<h1 align="center" style="font-family: cursive;">CoLLAB wiTH ME</h1>
